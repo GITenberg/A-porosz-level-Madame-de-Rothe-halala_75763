@@ -1,0 +1,26 @@
+_repo: A-porosz-level-Madame-de-Rothe-halala_75763
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laczkó, Géza
+    gutenberg_agent_id: '58131'
+    url: http://www.gutenberg.org/2009/agents/58131
+description: ''
+gutenberg_issued: '2025-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75763'
+language: hu
+pgterms:marc905: 20250328135538laczk
+pgterms:marc906: '1911'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bNyugat, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A porosz levél; Madame de Rothe halála
+url: http://www.gutenberg.org/ebooks/75763
